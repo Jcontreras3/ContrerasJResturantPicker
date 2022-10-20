@@ -1,4 +1,7 @@
-﻿
+﻿// Jovann Contreras
+// Date 10/19/2022
+// Letting the user choose between three options of food and give them a random resturant to eat at.
+
 Console.Clear();
 string[] Res = { "Chili's", "Sizzlers", "BJ's", "Olive Garden", "Outback", "Apple Bee's", "Payters", "Cheesecake Factory", "Texas Roadhouse", "Captain Crab" };
 string[] FastFood = { "Mcdonalds", "Burger King", "Subway", "Carls.Jr", "Wendy's", "Philly CheeseStake", "Jack in box", "Canes", "Chic Fil a", "PopEyes" };
