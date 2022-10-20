@@ -1,0 +1,15 @@
+C:\Users\Jovan\GitHub\JContrerasResturantPicker\bin\Debug\net6.0\JContrerasResturantPicker.exe
+C:\Users\Jovan\GitHub\JContrerasResturantPicker\bin\Debug\net6.0\JContrerasResturantPicker.deps.json
+C:\Users\Jovan\GitHub\JContrerasResturantPicker\bin\Debug\net6.0\JContrerasResturantPicker.runtimeconfig.json
+C:\Users\Jovan\GitHub\JContrerasResturantPicker\bin\Debug\net6.0\JContrerasResturantPicker.dll
+C:\Users\Jovan\GitHub\JContrerasResturantPicker\bin\Debug\net6.0\ref\JContrerasResturantPicker.dll
+C:\Users\Jovan\GitHub\JContrerasResturantPicker\bin\Debug\net6.0\JContrerasResturantPicker.pdb
+C:\Users\Jovan\GitHub\JContrerasResturantPicker\obj\Debug\net6.0\JContrerasResturantPicker.csproj.AssemblyReference.cache
+C:\Users\Jovan\GitHub\JContrerasResturantPicker\obj\Debug\net6.0\JContrerasResturantPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jovan\GitHub\JContrerasResturantPicker\obj\Debug\net6.0\JContrerasResturantPicker.AssemblyInfoInputs.cache
+C:\Users\Jovan\GitHub\JContrerasResturantPicker\obj\Debug\net6.0\JContrerasResturantPicker.AssemblyInfo.cs
+C:\Users\Jovan\GitHub\JContrerasResturantPicker\obj\Debug\net6.0\JContrerasResturantPicker.csproj.CoreCompileInputs.cache
+C:\Users\Jovan\GitHub\JContrerasResturantPicker\obj\Debug\net6.0\JContrerasResturantPicker.dll
+C:\Users\Jovan\GitHub\JContrerasResturantPicker\obj\Debug\net6.0\ref\JContrerasResturantPicker.dll
+C:\Users\Jovan\GitHub\JContrerasResturantPicker\obj\Debug\net6.0\JContrerasResturantPicker.pdb
+C:\Users\Jovan\GitHub\JContrerasResturantPicker\obj\Debug\net6.0\JContrerasResturantPicker.genruntimeconfig.cache

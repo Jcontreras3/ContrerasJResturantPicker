@@ -9,10 +9,10 @@ string playerInput;
 string tryAgain = "yes";
 while (tryAgain == "yes")
 {
-    Console.WriteLine("Choose between food, drink or dessert");
+    Console.WriteLine("Choose between Resturant, FastFood or Dessert");
 
     playerInput = Console.ReadLine().ToLower();
-    while (playerInput != "food" && playerInput != "drink" && playerInput != "dessert")
+    while (playerInput != "resturant" && playerInput != "fastfood" && playerInput != "dessert")
     {
         Console.WriteLine("Invalid pick");
         Console.WriteLine("Choose between those 3 items");
@@ -21,15 +21,15 @@ while (tryAgain == "yes")
     Console.WriteLine("You Picked " + playerInput);
 
     Random random = new Random();
-    if (playerInput == "Resturant")
+    if (playerInput == "resturant")
     {
         int index = random.Next(Res.Length);
-        Console.WriteLine($"Food: {Res[index]}");
+        Console.WriteLine($"Resturant: {Res[index]}");
     }
-    else if (playerInput == "FastFood")
+    else if (playerInput == "fastfood")
     {
         int index = random.Next(FastFood.Length);
-        Console.WriteLine($"Drink: {FastFood[index]}");
+        Console.WriteLine($"fastFood: {FastFood[index]}");
     }
     else if (playerInput == "dessert")
     {
@@ -37,12 +37,13 @@ while (tryAgain == "yes")
         Console.WriteLine($"Dessert: {Dessert[index]}");
     }
 
-    Console.WriteLine("Would you like to try again? type in Yes to retry or No to quit");
+   
 
     string playAgainInput = "Nothing";
 
     while (playAgainInput != "yes" || playAgainInput != "no")
-    {
+    { 
+        Console.WriteLine("Would you like to try again? type in Yes to retry or No to quit");
         playAgainInput = Console.ReadLine().ToLower();
         if (playAgainInput == tryAgain)
         {
